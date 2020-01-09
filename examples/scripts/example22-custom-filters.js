@@ -1,6 +1,6 @@
 import React from 'react';
-import ReactDataGrid from 'react-data-grid';
-import { Toolbar, Filters, Data } from 'react-data-grid-addons';
+import ReactDataGrid from 'react-data-grid-v7';
+import { Toolbar, Filters, Data } from 'react-data-grid-v7-addons';
 
 import exampleWrapper from '../components/exampleWrapper';
 

@@ -14,7 +14,7 @@ Using the `Data.Selectors.getRows` selector from `react-data-grid-addons`, it is
 ### Setting the columns to group by
 To display the grid data grouped by columns, pass a `groupBy: String[] `property to the `getRows` selector
 ```javascript
-import {Data} from 'react-data-grid-addons';
+import {Data} from react-data-grid-v7;
 
 // grouping by a single column with column.key = 'col1'
 const groupBy = ['col1'];

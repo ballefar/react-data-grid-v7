@@ -21,8 +21,8 @@ module.exports = {
   ],
   restoreMocks: true,
   moduleNameMapper: {
-    '^react-data-grid$': '<rootDir>/packages/react-data-grid/src/',
-    '^react-data-grid-addons$': '<rootDir>/packages/react-data-grid-addons/src/',
+    '^react-data-grid$': '<rootDir>/packages/react-data-grid-v7/src/',
+    '^react-data-grid-addons$': '<rootDir>/packages/react-data-grid-v7-addons/src/',
     '\\.css$': '<rootDir>/test/fileMock.js'
   },
   setupFiles: [

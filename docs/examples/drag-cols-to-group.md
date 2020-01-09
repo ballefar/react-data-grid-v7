@@ -19,7 +19,7 @@ Any columns that you wish to make draggable, must have a `draggable: true` prope
 This uses [React DnD](https://github.com/react-dnd/react-dnd) under the hood to make the grid draggable.
 
 ```javascript
-import { Draggable } from "react-data-grid-addons";
+import { Draggable } from react-data-grid-v7;
 const DraggableContainer = Draggable.Container;
 
   <DraggableContainer>

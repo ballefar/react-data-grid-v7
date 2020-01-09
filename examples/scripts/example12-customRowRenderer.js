@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ReactDataGrid from 'react-data-grid';
+import ReactDataGrid from 'react-data-grid-v7';
 
 import exampleWrapper from '../components/exampleWrapper';
 

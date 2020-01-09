@@ -17,7 +17,7 @@ $ yarn add react-data-grid
 Below is the minimum configuration required to import ReactDataGrid into your application.
 ```typescript
 import React from 'react';
-import ReactDataGrid from 'react-data-grid';
+import ReactDataGrid from react-data-grid-v7;
 
 const columns = [
   { key: 'id', name: 'ID' },

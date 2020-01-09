@@ -26,7 +26,7 @@ npm install react-data-grid
 
 You can then import react-data-grid in your application as follows:
 ```js
-import ReactDataGrid from 'react-data-grid';
+import ReactDataGrid from react-data-grid-v7;
 ```
 
 Versions In This Repository

@@ -1,6 +1,6 @@
 import React from 'react';
-import ReactDataGrid from 'react-data-grid';
-import { DraggableHeader } from 'react-data-grid-addons';
+import ReactDataGrid from 'react-data-grid-v7';
+import { DraggableHeader } from 'react-data-grid-v7-addons';
 
 import exampleWrapper from '../components/exampleWrapper';
 

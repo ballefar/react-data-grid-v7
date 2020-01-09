@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDataGrid from 'react-data-grid';
+import ReactDataGrid from 'react-data-grid-v7';
 import update from 'immutability-helper';
 
 import exampleWrapper from '../components/exampleWrapper';

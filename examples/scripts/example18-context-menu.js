@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ReactDataGrid from 'react-data-grid';
-import { Menu } from 'react-data-grid-addons';
+import ReactDataGrid from 'react-data-grid-v7';
+import { Menu } from 'react-data-grid-v7-addons';
 
 import exampleWrapper from '../components/exampleWrapper';
 

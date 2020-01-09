@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ReactDataGrid, { Row } from 'react-data-grid';
-import { Draggable, Data } from 'react-data-grid-addons';
+import ReactDataGrid, { Row } from 'react-data-grid-v7';
+import { Draggable, Data } from 'react-data-grid-v7-addons';
 
 import exampleWrapper from '../components/exampleWrapper';
 

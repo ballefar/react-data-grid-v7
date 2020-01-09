@@ -12,8 +12,8 @@ const cleanCSS = new CleanCSS({
 });
 
 [
-  './packages/react-data-grid/style/react-data-grid.less',
-  './packages/react-data-grid-addons/style/react-data-grid-addons.less'
+  './packages/react-data-grid-v7/style/react-data-grid-v7.less',
+  './packages/react-data-grid-v7-addons/style/react-data-grid-v7-addons.less'
 ].forEach(buildStylesheet);
 
 async function buildStylesheet(path) {

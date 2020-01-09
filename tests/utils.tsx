@@ -1,6 +1,6 @@
 import React, { StrictMode } from 'react';
 import { render } from '@testing-library/react';
-import ReactDataGrid, { ReactDataGridProps } from '../packages/react-data-grid/src';
+import ReactDataGrid, { ReactDataGridProps } from '../packages/react-data-grid-v7/src';
 
 interface RowType {
   col1: string;

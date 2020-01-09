@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ReactDataGrid from 'react-data-grid';
-import { ToolsPanel, Data, Draggable } from 'react-data-grid-addons';
+import ReactDataGrid from 'react-data-grid-v7';
+import { ToolsPanel, Data, Draggable } from 'react-data-grid-v7-addons';
 import faker from 'faker';
 import Immutable from 'immutable';
 

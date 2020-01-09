@@ -3,8 +3,8 @@
 // https://www.typescriptlang.org/docs/handbook/project-references.html
 // {
 //   "references": [
-//     { "path": "packages/react-data-grid" },
-//     { "path": "packages/react-data-grid-addons" }
+//     { "path": "packages/react-data-grid-v7" },
+//     { "path": "packages/react-data-grid-v7-addons" }
 //   ]
 // }
 
@@ -15,7 +15,7 @@
     "noEmit": true
   },
   "files": [
-    "packages/react-data-grid/src/index.ts",
-    "packages/react-data-grid-addons/src/index.ts"
+    "packages/react-data-grid-v7/src/index.ts",
+    "packages/react-data-grid-addons-v7/src/index.ts"
   ]
 }

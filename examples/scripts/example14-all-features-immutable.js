@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ReactDataGrid from 'react-data-grid';
-import { Editors, Toolbar, Menu, Formatters } from 'react-data-grid-addons';
+import ReactDataGrid from 'react-data-grid-v7';
+import { Editors, Toolbar, Menu, Formatters } from 'react-data-grid-v7-addons';
 import Immutable from 'immutable';
 import faker from 'faker';
 

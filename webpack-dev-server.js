@@ -13,9 +13,9 @@ const config = {
       'webpack-dev-server/client?http://localhost:8080/',
       'webpack/hot/dev-server',
       './examples',
-      './packages/react-data-grid/style/react-data-grid.less',
-      './packages/react-data-grid-addons/style/react-data-grid-addons.less',
-      './packages/react-data-grid-addons/node_modules/react-select/dist/react-select.css'
+      './packages/react-data-grid-v7/style/react-data-grid-v7.less',
+      './packages/react-data-grid-v7-addons/style/react-data-grid-v7-addons.less',
+      './packages/react-data-grid-v7-addons/node_modules/react-select/dist/react-select.css'
     ]
   },
   resolve: {
